@@ -9,4 +9,5 @@ astropy>=4.0.1
 zeep>=3.4.0
 glymur>=0.9.1
 drms>=0.5.7
+mega.py>=1.0.8
 git+https://github.com/mjkvaak/ImageDataAugmentor#egg=ImageDataAugmentor
